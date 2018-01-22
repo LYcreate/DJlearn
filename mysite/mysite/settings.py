@@ -81,8 +81,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dj_db1',
-        'USER': 'root',
-        'PASSWORD': 'lymariadb',
+        'USER': '#',
+        'PASSWORD': '#',
         'HOST': '',
         'PORT': '',
     }
